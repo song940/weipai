@@ -1,0 +1,25 @@
+{
+  "name": "weipai",
+  "version": "0.0.0",
+  "main": "weipai.js",
+  "author": "Lsong",
+  "license": "MIT",
+  "bin": {
+    "weipai": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gist.github.com/df79bb9eec2ef700b443.git"
+  },
+  "keywords": [
+    "weipai"
+  ],
+  "bugs": {
+    "url": "https://gist.github.com/df79bb9eec2ef700b443"
+  },
+  "homepage": "https://gist.github.com/df79bb9eec2ef700b443",
+  "description": "weipai"
+}
